@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on live projects in CyberSec and DevOps
 - 📫 How to reach me gutlanikhil@gmail.com
 - 😄 Pronouns: He/Him/His...
-- ⚡ Fun fact: Huge fan of F1
+- ⚡ Fun fact: Huge fan of Formula 1
 
 <!---
 NikhilGutla/NikhilGutla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
